@@ -2,7 +2,6 @@
 """
 This script should be run with having set the SSH keys.
 """
-import argparse
 import sh
 import sys
 from loguru import logger
